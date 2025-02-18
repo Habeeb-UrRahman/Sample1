@@ -219,7 +219,7 @@ function App() {
         {/* Footer */}
         <footer className="py-8 border-t border-gray-100">
           <p className="text-center text-gray-500">
-            Developed by <span className="text-gray-800 font-medium">Habeeb Ur Rahman</span>
+            Developed by <span className="text-gray-800 font-medium">Shabul Hussain - WIX</span>
           </p>
         </footer>
       </main>
